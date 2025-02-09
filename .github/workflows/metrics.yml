@@ -15,7 +15,7 @@ jobs:
           template: classic
           config_display: columns
           base: header, activity, community, repositories
-          commits_authoring: techyshreyansh
+          commits_authoring: ShreyanshMods
           config_timezone: Kolkata/Asia
           plugin_achievements: yes
           plugin_achievements_display: detailed
