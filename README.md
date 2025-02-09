@@ -1,10 +1,10 @@
-![MasterHead](https://github.com/techshreyansh0129/Organic-Safelink/blob/main/assests/banner.png)
+![MasterHead](https://cdn.jsdelivr.net/gh/ShreyanshMods/ShreyanshMods@main/Images/banner.png)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++Tech+Shreyansh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">Be Aware Be Safe !</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techshreyansh0129&label=Profile%20views&color=0e75b6&style=flat" alt="techshreyansh0129" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/ShreyanshMods/ShreyanshMods@main/Images/Panda.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techshreyansh0129&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyanshMods" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_rai_shreyansh_" target="blank"><img src="https://img.shields.io/twitter/follow/_rai_shreyansh_?logo=twitter&style=for-the-badge" alt="_rai_shreyansh_" /></a> </p>
 
