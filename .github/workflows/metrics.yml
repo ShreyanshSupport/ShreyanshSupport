@@ -10,12 +10,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: ShreyanshMods
+          user: ShreyanshSupport
 
           template: classic
           config_display: columns
           base: header, activity, community, repositories
-          commits_authoring: ShreyanshMods
+          commits_authoring: ShreyanshSupport
           config_timezone: Kolkata/Asia
           plugin_achievements: yes
           plugin_achievements_display: detailed
